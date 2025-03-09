@@ -1,4 +1,4 @@
-# Generate radiation pattern, when point antenna radiation is blocked by a double slot (reverse of double-slit).
+# Generate radiation pattern, when point antenna radiation is blocked by a double slot (inverse of double-slit).
 
 import math
 
