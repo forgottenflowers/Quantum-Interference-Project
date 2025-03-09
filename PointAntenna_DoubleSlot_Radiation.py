@@ -1,4 +1,4 @@
-
+# Generate radiation pattern, when point antenna radiation is blocked by a double slot (reverse of double-slit).
 
 point_double slot.txt
 import math
