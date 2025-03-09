@@ -1,5 +1,7 @@
 # Generate radiation pattern, when point antenna radiation is blocked by a screen with a double slit.
 
+import math
+
 def run():
 	lamda=5.0       			# Wavelength
 	l=30					# length of slit (even)
