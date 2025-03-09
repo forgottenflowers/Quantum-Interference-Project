@@ -1,4 +1,5 @@
-# Generate radiation pattern, when antenna is infinitely far away and radiation is blocked by a double slot (inverse of double slit)plane_doubleslot.txt
+# Generate radiation pattern, when antenna is infinitely far away and radiation is blocked by a double slot (inverse of double slit)
+
 import math
 
 def run():
