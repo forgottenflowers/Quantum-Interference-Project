@@ -1,4 +1,4 @@
-# Generate radiation pattern, when point antenna radiation is blocked by a single slot (reverse of single slit).
+# Generate radiation pattern, when point antenna radiation is blocked by a single slot (inverse of single slit).
 
 import math
 
