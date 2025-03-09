@@ -1,4 +1,3 @@
-single slot.txt
 import math
 
 def run():
