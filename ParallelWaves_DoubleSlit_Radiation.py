@@ -1,3 +1,5 @@
+# Generate radiation pattern, when antenna is infinitely far away and radiation is blocked by a screen with a double slit.
+
 import math
 
 def run():
