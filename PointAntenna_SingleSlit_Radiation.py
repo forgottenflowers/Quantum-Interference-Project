@@ -2,8 +2,8 @@
 
 def run():
 	lamda=5.0       			# Wavelength
-	l=30	#even
-	b=12
+	l=30					# length of slit (even)
+	b=12					# breadth of slit (even)
 	D=10000.0				# distance of detection from screen
 	F=(b*b)/(D*lamda)
 	print "Fresnel number = ",F,":"
