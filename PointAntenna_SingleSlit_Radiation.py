@@ -1,17 +1,17 @@
-import math
+# Generate radiation pattern, when point antenna radiation is blocked by a screen with a single slit.
 
 def run():
-	lamda=5.0
+	lamda=5.0       			# Wavelength
 	l=30	#even
 	b=12
-	D=10000.0
+	D=10000.0				# distance of detection from screen
 	F=(b*b)/(D*lamda)
 	print "Fresnel number = ",F,":"
-	I0=10.0
+	I0=10.0         			# Intensity amplitude
 	A=math.sqrt(I0)
-	p=1000
+	p=1000       				# number of data points
 	pi=3.1416
-	ant=500
+	ant=500					# distance of antenna from screen
 
 	for np in range(-p,p+1):
 		RPAT=0
